@@ -1,0 +1,15 @@
+@media only screen and (max-width: 768px) {
+  .date-display {
+      display: none;
+  }
+
+  .welcome-name {
+      display: none;
+  }
+
+  /* Optional: Adjust other elements if needed for better mobile layout */
+  .menu ul {
+      display: flex;
+      justify-content: space-around;
+  }
+}
