@@ -87,8 +87,10 @@
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Allura&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap">
-    <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
-    <!-- Bootstrap + LeadMark main styles -->
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
+    
+    Bootstrap + LeadMark main styles -->
+    <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="assets/css/leadmark.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
     
@@ -108,13 +110,13 @@
         }
 
         .signGloria {
-            font-family: 'Satisfy', cursive;
+            font-family: 'Sacramento', cursive;
             color: #7E007D;
         }
 
         .sectitle {
-            font-family: 'Satisfy', cursive;
-            /* font-family: 'Satisfy', cursive; */
+            font-family: 'Sacramento', cursive;
+            /* font-family: 'Sacramento', cursive; */
             color: #7E007D;
 
         }
@@ -265,22 +267,28 @@
             box-sizing: border-box; /* Include padding and borders in the width */
         }
 
-        h1.glow-in-wellness {
+        /* h1.glow-in-wellness {
         font-size: 90px;
         font-family: 'MyCustomFont', sans-serif;
         color: white;
         text-shadow: -2px -2px 0 #605F82, 2px -2px 0 #605F82, -2px 2px 0 #605F82, 2px 2px 0 #605F82;
-    }
+    } */
+    h1.glow-text {
+            font-family: 'Sacramento', cursive;
+            font-size: 120px;
+            color: white;
+            text-shadow: -2px -2px 0 #605F82, 2px -2px 0 #605F82, -2px 2px 0 #605F82, 2px 2px 0 #605F82;
+        }
 
     @media (max-width: 768px) {
-        h1.glow-in-wellness {
+        h1.glow-text {
             font-size: 60px; /* Adjust size for tablet/mobile devices */
         }
     }
 
     @media (max-width: 480px) {
-        h1.glow-in-wellness {
-            font-size: 40px; /* Adjust size for smaller mobile devices */
+        h1.glow-text {
+            font-size: 60px; /* Adjust size for smaller mobile devices */
         }
     }
 
@@ -451,9 +459,12 @@
     <header class="header">
         <div class="overlay">
             <h1 class="subtitle">Welcome to</h1><br><br><br>
-            <h1 class="glow-in-wellness">
-    Glow in Wellness
-</h1>
+            <!-- <h1 class="glow-in-wellness">
+                Glow in Wellness
+            </h1> -->
+            <h1 class="glow-text">
+        Glow in Wellness
+    </h1>
 
             <br><br>
             <h1 class="subtitle">MASSAGE AND BOWEN THERAPY</h1><br>
@@ -603,7 +614,7 @@
     <!-- About Section -->
     <section class="section" id="about">
     <div class="container">
-        <p class="section-title mb-0" style="font-size: 40px; color: #7E007D; font-family: 'Satisfy', cursive;">Meet Gloria</p>
+        <p class="section-title mb-0" style="font-size: 40px; color: #7E007D; font-family: 'Sacramento', cursive;">Meet Gloria</p>
         <br>
         <div class="about-content" style="display: flex; flex-wrap: wrap; align-items: flex-start;">
             <div class="about-text" style="flex: 1;">
@@ -715,7 +726,7 @@
                         echo "<div style='text-align: center; padding: 20px; border: 1px solid #eee; border-radius: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); max-width: 400px; margin: 20px;'>
                                 <img src='Photos/Blogs/" . $row['blog_img'] . "' alt='Blog Image' style='width: 100%; border-radius: 10px 10px 0 0;'>
                                 
-                                <h2 style=\"font-size: 25px; font-family: 'Satisfy', cursive; color: #7E007D; margin-top: 15px;\">" . htmlspecialchars($row['title']) . "</h2>
+                                <h2 style=\"font-size: 30px; font-family: 'Sacramento', cursive; color: #7E007D; margin-top: 15px;\">" . htmlspecialchars($row['title']) . "</h2>
                                 
                                 <p style='font-family: Arial, sans-serif; color: #666; padding: 0 10px;'>
                                     " . $short_content . "

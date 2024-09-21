@@ -27,7 +27,7 @@ include("guest-Information_process.php");
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Allura&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap">
-    <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
     <!-- Bootstrap + LeadMark main styles -->
 	  <link rel="stylesheet" href="assets/css/leadmark.css">
     
@@ -44,7 +44,7 @@ include("guest-Information_process.php");
         }
 
         .sectitle {
-            font-family: 'Satisfy', cursive;
+            font-family: 'Sacramento', cursive;
             color: #7E007D;
 
         }

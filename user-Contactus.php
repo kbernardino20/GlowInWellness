@@ -61,7 +61,7 @@
         <link rel="stylesheet" href="assets/vendors/lineawesome/css/line-awesome.min.css">
         <link rel="stylesheet" href="assets/css/leadmark.css">
 <link rel="stylesheet" href="CSS/topbar.css">
-        <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -89,7 +89,7 @@
 		}
 
         .sectitle {
-            font-family: 'Satisfy', cursive;
+            font-family: 'Sacramento', cursive;
             color: #7E007D;
 
         }
@@ -121,7 +121,7 @@
 	<!--Content Start-->
 	<div class="content transition text-center">
 		<div class="container-fluid dashboard">
-                <h6 class="mb-0 " style="font-size: 50px; font-family: 'Satisfy', cursive; color: #7E007F;">Contact Us</h6> <br>
+                <h6 class="mb-0 " style="font-size: 50px; font-family: 'Sacramento', cursive; color: #7E007F;">Contact Us</h6> <br>
                 <div class="container d-flex justify-content-center align-items-center" style="min-height: 50vh;">
                     <div class="col-md-6 col-lg-8">
                         <div class="card">

@@ -38,7 +38,7 @@ while ($row = $Durationresult->fetch_assoc()) {
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Allura&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap">
-    <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
     <!-- Bootstrap + LeadMark main styles -->
 	  <link rel="stylesheet" href="assets/css/leadmark.css">
     

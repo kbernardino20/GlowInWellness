@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Allura&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap">
-    <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
     <!-- Bootstrap + LeadMark main styles -->
 	<link rel="stylesheet" href="assets/css/leadmark.css">
     
@@ -21,14 +21,14 @@
         }
 
         .signGloria {
-            font-family: 'Satisfy', cursive;
+            font-family: 'Sacramento', cursive;
             /* font-family: 'Grey Qo', cursive; */
             color: #7E007D;
         }
 
         .sectitle {
-            font-family: 'Satisfy', cursive;
-            /* font-family: 'Satisfy', cursive; */
+            font-family: 'Sacramento', cursive;
+            /* font-family: 'Sacramento', cursive; */
             color: #7E007D;
 
         }
@@ -149,34 +149,36 @@
 
 	
                 
-            <p class="text-center mb-5 pb-3" style="font-size: 18px; color: #000000;" >Remedial massage is the assessment and treatment of pain, muscle tension and reduced range
-of movement. <br>The therapist uses techniques that are different to relax <br>
+            <p class="text-center mb-5 pb-3" style="font-size: 18px; color: #000000;" >Remedial massage is the assessment and treatment of pain, muscle tension and reduced range <br>
+of movement. The therapist uses techniques that are different to relax <br>
 These can be but not limited to:</p>
 
             <h1 class="section-title text-center" style="font-size: 25px; color: #7E007D;">Trigger point (TrP)</h1><br>
 
-            <p class="text-center mb-5 pb-3" style="font-size: 18px; color: #000000;" >Pressure placed on areas of tension and then released when the tenison has dissapated</p><br>
+            <p class="text-center mb-5 pb-3" style="font-size: 18px; color: #000000;" >Pressure placed on areas of tension and then released when <br>the tenison has dissapated</p><br>
 
             <h1 class="section-title text-center" style="font-size: 25px; color: #7E007D;">Proprioceptive Neuromuscular Facilitation (PNF)</h1>
 
-            <p class="text-center mb-5 pb-3" style="font-size: 18px; color: #000000;" >Use of passive stretching followed by a contraction of the muscle group targed then finished
-            with another passive stretch further than the original stretch.</p><br><br>
+            <p class="text-center mb-5 pb-3" style="font-size: 18px; color: #000000;" >Use of passive stretching followed by a contraction of the <br>muscle group targed then finished
+            with another <br> passive stretch further than the original stretch.</p><br><br>
 
             <h1 class="section-title text-center" style="font-size: 25px; color: #7E007D;">Myofascial relase (MFR)</h1>
 
-            <p class="text-center mb-5 pb-3" style="font-size: 18px; color: #000000;" >Sustained and controlled pressure on areas of pain and tension</p><br>
+            <p class="text-center mb-5 pb-3" style="font-size: 18px; color: #000000;" >Sustained and controlled pressure on areas of <br>pain and tension</p><br>
 
             <h1 class="section-title text-center" style="font-size: 25px; color: #7E007D;">Cupping</h1>
 
-            <p class="text-center mb-5 pb-3" style="font-size: 18px; color: #000000;" >Suction created on areas of pain and tension using silcone, plastic or glass cups which
-            promotes increased blood flow to the area. It can cause marks on the skin for up to 2 weeks.
+            <p class="text-center mb-5 pb-3" style="font-size: 18px; color: #000000;" >Suction created on areas of pain and tension using silcone, <br>plastic or glass cups which
+            promotes increased <br>blood flow to the area. It can cause marks <br>on the skin for up to 2 weeks. </p> <br>
 
-            <br>Assessment used can be range of movement (ROM) testing, postural analaysis and palpation.
+            <h1 class="section-title text-center" style="font-size: 25px; color: #7E007D;">Assessment</h1>
 
-            <br>I use a combination of all of assessments and techniques balancing them with my intution and
-            knowlege gained over the last 5years</p><br>
+            <p class="text-center mb-5 pb-3" style="font-size: 18px; color: #000000;" >Assessment used can be range of movement (ROM) testing,<br> postural analaysis and palpation.  <br>
 
-            <h1 class="section-title text-center" style="font-size: 25px; color: #7E007D;">Remedeial massage is helpful in the treatment of</h1>
+            <br>I use a combination of all of assessments and techniques <br>balancing them with my intution and
+            knowlege <br>gained over the last 5years</p><br>
+
+            <h1 class="section-title text-center" style="font-size: 25px; color: #7E007D;">Remedial massage is helpful in the treatment of</h1>
                 <ul class="text-center mb-5 pb-3" style="font-size: 18px; color: #000000; list-style-type: none; padding-left: 0;">
                     <li>Migranes/ headaches</li>
                     <li>Back pain</li>

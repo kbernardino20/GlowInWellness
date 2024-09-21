@@ -32,7 +32,7 @@
 	<link rel="stylesheet" href="assets/vendors/lineawesome/css/line-awesome.min.css">
     <link rel="stylesheet" href="assets/css/leadmark.css">
 <link rel="stylesheet" href="CSS/topbar-admin.css">
-    <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
 	<style>
 		.topbar {
 			display: flex;
@@ -52,7 +52,7 @@
 		}
 
         .sectitle {
-            font-family: 'Satisfy', cursive;
+            font-family: 'Sacramento', cursive;
             color: #7E007D;
 
         }
@@ -73,7 +73,7 @@
 	<div class="content transition">
 		<div class="container-fluid dashboard">
 			
-                <h6 class="mb-0 text-center" style="font-size: 50px; font-family: 'Satisfy', cursive; color: #7E007F;">Glow in Wellnesss Products</h6> <br>
+                <h6 class="mb-0 text-center" style="font-size: 50px; font-family: 'Sacramento', cursive; color: #7E007F;">Glow in Wellnesss Products</h6> <br>
 				<div class="row">
 
 				<?php

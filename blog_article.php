@@ -17,8 +17,8 @@
     <link rel="stylesheet" href="assets/vendors/themify-icons/css/themify-icons.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Allura&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Grey+Qo&display=swap">
-    <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
     <!-- Bootstrap + LeadMark main styles -->
 	  <link rel="stylesheet" href="assets/css/leadmark.css">
     
@@ -175,7 +175,7 @@
                                                                         style='width: 100%; max-width: 400px; height: auto; object-fit: cover;'>
                                                                       <br><br>";
                                                                 echo "<div style='text-align: center;'>";
-                                                                echo "<h2 style=\"font-family: 'Satisfy', cursive; color: #7E007D;\">" . $row['title'] . "</h2>";
+                                                                echo "<h2 style=\"font-family: 'Sacramento', cursive; color: #7E007D;\">" . $row['title'] . "</h2>";
 
                                                                 echo "<p style=\"color: #000000;\">" . $row['post_date'] . " | Authored by: " . $row['author'] . "</p><br>";
                                                                 echo "</div>";
