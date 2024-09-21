@@ -29,7 +29,7 @@
 	<link rel="stylesheet" href="assets/vendors/lineawesome/css/line-awesome.min.css">
     <link rel="stylesheet" href="assets/css/leadmark.css">
 <link rel="stylesheet" href="CSS/topbar.css">
-    <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto|Varela+Round">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
@@ -54,7 +54,7 @@
 		}
 
         .sectitle {
-            font-family: 'Satisfy', cursive;
+            font-family: 'Sacramento', cursive;
             color: #7E007D;
 
         }
@@ -236,7 +236,7 @@
             
 		
 			
-                <!-- <h6 class="mb-0 text-center" style="font-size: 50px; font-family: 'Satisfy', cursive; color: #7E007F;">My Orders</h6> -->
+                <!-- <h6 class="mb-0 text-center" style="font-size: 50px; font-family: 'Sacramento', cursive; color: #7E007F;">My Orders</h6> -->
 				<div class="container-xl">
                     <div class="table-responsive">
                         <div class="table-wrapper">
